@@ -80,3 +80,7 @@ firefox & - palaiz programmu
 kill xxxx - aptur lietot'aja palaisto programmu
 uname -a -  
 ps aux
+
+history > history_20220913a.txt
+lt - ls
+cat history > history_20220913a.txt
