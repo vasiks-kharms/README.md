@@ -77,10 +77,10 @@ echo "text" > a.txt - creates a file of the echoed text
 mv ABC/a.txt Videos/ - move file to a different folder
 
 firefox & - palaiz programmu 
-kill xxxx - aptur lietot'aja palaisto programmu
-uname -a -  
-ps aux
+kill xxxx - aptur lietot'aja palaisto programmu  
+uname -a -   
+ps aux  
 
-history > history_20220913a.txt
-lt - ls
-cat history > history_20220913a.txt
+history > history_20220913a.txt  
+lt - ls  
+cat history > history_20220913a.txt  
