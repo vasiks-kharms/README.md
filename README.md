@@ -75,3 +75,4 @@ mkdir ABC - creates a directory named ABC
 echo "text" > a.txt - creates a file of the echoed text
 
 mv ABC/a.txt Videos/ - move file to a different folder
+
