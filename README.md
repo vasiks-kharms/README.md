@@ -1,4 +1,4 @@
-# README.md
+# Datormācība
 Studiju kursa Datormācības (pamatkurss) elektroniskā klade  [^1]
 Satura rādītājs
 - [1.sadaļa]
@@ -34,7 +34,7 @@ Satura rādītājs
 
 [^1]: J.Ziemelis. Ievads algoritmu valodā C. Rīga
 
-# 1.MĀJASDARBS
+# 1.MĀJASDARBS - basic komandu paskaidrojumi
 
 whoami - parāda lietotāja username  
 
