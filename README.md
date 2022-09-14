@@ -36,51 +36,70 @@ Satura rādītājs
 
 # 1.MĀJASDARBS
 
-whoami - prints user name of the current user
+whoami - parāda lietotāja username  
+
+clear - notīra termināli
 
 who - prints information about currently logged in users
 
-last - reads data from wtmp log
+last - parāda wtmp (a file containing a history of all logins and logouts)
 
-pwd - writes full pathname of the current working directory
+pwd - (Print Working Directory) parāda, kur atrodamies
 
-man pwd - opens manual for pwd command
+man man - atver pamācību
 
-man man - opens manual for manual
+man "any command" - atver pamācību attiecīgajai komandai
 
-history - views previous executed commands
+history - apskatīt sarakstu ar iepriekš veiktajām darbībām
 
-ls - lists files or directories in current directory
+ls - uzskaita failus un directories pašreizējā directory. 
 
-ls -l - lists files or directories in current directory as a list
+ls -l - uzskaita failus un directories pašreizējā directory kā sarakstu un ar padziļinātāku info.
 
-ls -a - lists files or directories including hidden files or directories
+ls -a - uzskaita failus un directories, tajā skaitā ar slēptos failus un directories.
 
-snap - gathers system configuration information and compresses the information into a pax file
+snap - savāc sistēmas config. info un saspiež līdz pax(Portable Archive Exchange) failam  
 
 echo - displays line of text that are passed as argument
 
 sh - executes commands read from a command line string, the standard input, or a specified file
 
-cd - change directory
+cd "exact name of directory" - aiziet uz attiecīgo directory
 
 cd . - navigate down one directory
 
-cd .. - navigate up one directory
+cd .. - aiziet atpakaļ uz iepriekšējo directory
+
+cd /  - aiziet uz pašu sākotnējo "root" directory
 
 cd ~ - navigate to home directory
 
-mkdir ABC - creates a directory named ABC
+cp "name of a text file" - kopēt failu
+
+cp "name of a text file" /home/"name of the repository"- kopēt failu attiecīgajā repository
+
+rm "name of a file" - notīrīt, nodzēst failu
+
+mkdir "name of a new directory" - izveido directory ar šādu nosaukumu
+
+rmdir "name of an empty directory" -izdzēš directory, kurā nav failu
+
+rm -r "name of the directory" -izdzēš attiecīgo directory
 
 echo "text" > a.txt - creates a file of the echoed text
 
-mv ABC/a.txt Videos/ - move file to a different folder
+mv "nosaukums failam"/a.txt "name of the folder"/ - pārvieto failu uz citu directory
 
-firefox & - palaiz programmu 
-kill xxxx - aptur lietot'aja palaisto programmu  
-uname -a -   
-ps aux  
+firefox & - palaiz firefox 
+
+kill "name of the prog" - aptur lietotāja palaisto programmu
+
+uname -a - print system info
+
+ps aux  -parāda, kādi procesi ir notikuši
 
 history > history_20220913a.txt  
+
 lt - ls  
+
 cat history > history_20220913a.txt  
