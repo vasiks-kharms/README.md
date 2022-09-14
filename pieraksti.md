@@ -100,6 +100,4 @@ ps aux  -parāda, kādi procesi ir notikuši
 
 history > history_20220913a.txt  
 
-lt - ls  
-
 cat history > history_20220913a.txt  
