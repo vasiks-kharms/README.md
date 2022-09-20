@@ -1,0 +1,6 @@
+git add . #komanda "uzmanamo" mapju pievienosanai
+git config --global user.name vasiks-kharms
+git config --globas user.email kdambeniece@gmail.com
+git commit -m "Class_04a"
+git push origin main
+
