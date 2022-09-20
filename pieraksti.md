@@ -135,5 +135,5 @@ whereis nano - apskatīt komandas dokumentāciju un instrukcijām.
 
 #!/bin/bash - 
 
-
+chmod- nomaina tiesības
 
