@@ -129,8 +129,9 @@ git clone https .... - nokopet repository uz sistēmas
 absolūta adrese - sākot ar /
 relatīva - ar $
 
-nano git-upload
-
+nano git-upload -atveram
+nano -teksta editors
+whereis nano - apskatīt komandas dokumentāciju un instrukcijām.
 
 
 
