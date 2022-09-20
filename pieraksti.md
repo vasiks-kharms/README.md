@@ -133,7 +133,7 @@ nano git-upload -atveram
 nano -teksta editors
 whereis nano - apskatīt komandas dokumentāciju un instrukcijām.
 
-
+#!/bin/bash - 
 
 
 
