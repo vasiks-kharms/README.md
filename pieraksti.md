@@ -105,3 +105,6 @@ chmod- nomaina tiesības
 
 git pull -pirms taisa git push, ja githuba fails tiek editots.
 
+rm - rf README.rm
+
+history | grep clone
