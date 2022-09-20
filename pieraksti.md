@@ -100,4 +100,35 @@ ps aux  -parāda, kādi procesi ir notikuši
 
 history > history_20220913a.txt  
 
-cat history > history_20220913a.txt  
+cat history > history_20220913a.txt
+
+whereis ls - noskaidrojam, kur sistēmā atrodas fails, šajā gadījumā ls. dators nepārmeklē visu sistēmu, bet noteiktas mapes.
+
+echo $PATH - var pateikt kāds bija ceļš, lai atrastu failu. parādās saraksts ar caurskatāmajām mapēm.
+
+ls -l - ar detalizāciju saraksts, + linki(?)
+
+ls -lt /bin/ls - (domuzime un trīs x (rwxr -xr - x(read, write, execute - trīs reizes, jo kāds ir owner, owner group, ...)) atbilst failam, kuram ir izpildīšanas tiesības, ls -faila nosaukums, šis fails atrodas bin mapite)
+
+cd /bin -aizved uz sarakstu ar failiem ar izpildīšanas tiesībām, zaļā krāsās
+
+echo $0 - ar kādu bash vai citu shell lietotājs strādā.
+
+bash - pārslēdzas uz bash
+sh - pārslēdzas uz sh shell
+
+ls -l ls - var apskatīt šo ls failu, to var lasīt, rediģēt dzēst, apskatīt
+
+cat ls - var lasīt failu (cat izmanto tikai txt failu lasīšanai, ja izmamto izpildāmajiem failiem - nekas nesanāks)
+komanda, piemēram, ls -fails, ar instrukcijām, nevis txt fails.
+
+cd -aieziet uz home
+
+
+
+
+
+
+
+
+
