@@ -124,8 +124,12 @@ komanda, piemēram, ls -fails, ar instrukcijām, nevis txt fails.
 
 cd -aieziet uz home
 
+git clone https .... - nokopet repository uz sistēmas
 
+absolūta adrese - sākot ar /
+relatīva - ar $
 
+nano git-upload
 
 
 
